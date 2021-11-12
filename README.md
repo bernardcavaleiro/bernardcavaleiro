@@ -1,6 +1,6 @@
 ### Olá!
 
-Olá, meu nome é Bernardo e eu sou novo no desenvolvimento web e estou sempre buscando me aprimorar e ganhar mais conhecimento. Sou aficionado por tecnologia. Este é meu perfil que vai expor toda minha evolução.
+Meu nome é Bernardo e eu sou novo no desenvolvimento web e estou sempre buscando me aprimorar e ganhar mais conhecimento. Sou aficionado por tecnologia. Este é meu perfil que vai expor toda minha evolução.
 
 <div align="center" display: "inline_block">
   <a href="https://github.com/cavalleiroz">
