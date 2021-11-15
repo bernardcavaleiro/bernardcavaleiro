@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Sou estudante de Ciência da Computação.
 
-- 📌 Tenho interesse em: HTML, CSS, JavaScript e React.
+- 📌 Tenho interesse em: HTML, CSS, JavaScript, React e Python.
 
 Estou iniciando na minha carreira como Desenvolvedor Front-End. Sempre buscando aprimorar minhas habilidades.
 
