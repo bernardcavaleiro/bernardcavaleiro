@@ -15,13 +15,13 @@
 
 
 ### Um pouco sobre mim:  
-Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI.  Estou iniciando na minha jornada de desenvolvedor com foco em Java Full-Stack. Sou curioso e busco constantemente aprender o que não sei.  
+Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI. Estou iniciando na minha jornada de desenvolvedor com foco em Java Full-Stack. Sou curioso e busco constantemente aprender o que não sei.  
   
 
 <br/>  
 
 
-## stats  
+## Curiosidades 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 Estou realizando o curso de Full-Stack pela [Danki Code](https://cursos.dankicode.com/)  
@@ -48,7 +48,7 @@ Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI.  
 <br/>  
 
 
-## Languages and Tools  
+## Linguagens e Ferramentas
 <div align="center">  
 <img style="margin: 18px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
 <img style="margin: 18px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
