@@ -15,7 +15,7 @@
 
 
 ### Um pouco sobre mim:  
-Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI. Estou iniciando na minha jornada de desenvolvedor com foco em Java Full-Stack. Sou curioso e busco constantemente aprender o que não sei.  
+Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI. Estou iniciando na minha jornada de desenvolvedor com foco em MERN-Stack. Sou curioso e busco constantemente aprender o que não sei.  
   
 
 <br/>  
