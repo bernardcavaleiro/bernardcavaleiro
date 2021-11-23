@@ -24,7 +24,6 @@ Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI. E
 ## Curiosidades 
 <table><tr><td valign="top" width="50%">
 
-- 🔭 Estou realizando o curso de Full-Stack pela [Danki Code](https://cursos.dankicode.com/)  
   
 
 - 🌱 Atualmente, estou estudando JavaScript.  
