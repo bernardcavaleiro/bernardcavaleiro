@@ -12,8 +12,6 @@
 </a>  
   
 
-
-
 ### Um pouco sobre mim:  
 Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI. Estou iniciando na minha jornada de desenvolvedor Front-End com foco em React. Sou curioso e busco constantemente aprender o que não sei.  
   
