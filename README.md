@@ -26,10 +26,14 @@ Tenho 21 anos e sou estudante de Ciência da computação pela Faculdade FACI. E
 
 - 🌱 Atualmente, estou estudando JavaScript.  
   
+  <br/>
 
+  
 - ❓ Pode conversar comigo sobre qualquer coisa. :)  
   
+  <br/>
 
+  
 - ⚡ Uma dica: Seja sua própria motivação.  
 
 
